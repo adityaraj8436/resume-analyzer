@@ -1,7 +1,10 @@
 streamlit
 pandas
-sentence-transformers
+numpy
+scikit-learn
+requests
+streamlit-lottie
 pdfplumber
 nltk
-streamlit-lottie
-requests
+sentence-transformers
+torch
